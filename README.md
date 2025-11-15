@@ -1,17 +1,17 @@
 # PROJECT-SO-ANDRI3
-1. Buat Struktur Direktori
 
-Buat 3 folder departemen, masing-masing memiliki subfolder Documents dan Archives.
+# 1. Buat Struktur Direktori
+
+# Buat 3 folder departemen, masing-masing memiliki subfolder Documents dan Archives.
 
 Perintah:
 mkdir -p /server/Marketing/Documents /server/Marketing/Archives
 mkdir -p /server/Engineering/Documents /server/Engineering/Archives
 mkdir -p /server/HR/Documents /server/HR/Archives
 
-
 -p memastikan folder dibuat lengkap dengan struktur yang diperlukan.
 
-✅ 2. Pindahkan dan Salin File
+# 2. Pindahkan dan Salin File
 Contoh Skenario:
 
 Misalnya ada file salah tempat di /server/tmp/.
@@ -29,7 +29,7 @@ cp /server/Marketing/Documents/proposal_marketing.pdf /server/Marketing/Archives
 cp /server/Engineering/Documents/engineering_report.docx /server/Engineering/Archives/
 cp /server/HR/Documents/employee_list.xlsx /server/HR/Archives/
 
-✅ 3. Atur Permission
+# 3. Atur Permission
 
 Berikan akses hanya pada departemen terkait.
 
@@ -62,7 +62,7 @@ usermod -aG marketing user1
 usermod -aG engineering user2
 usermod -aG hr user3
 
-✅ 4. Cari & Filter File PDF Dari Minggu Lalu
+# 4. Cari & Filter File PDF Dari Minggu Lalu
 
 Gunakan perintah find dengan filter waktu.
 
