@@ -1,4 +1,4 @@
-# PROJECT_SO_ANDRI_ENO#
+# PROJECT_SO_ANDRI_ENO3
 ---
 
 # 🖥️ **SIMULASI TERMINAL — Membuat Struktur Direktori**
@@ -484,7 +484,7 @@ Ini berarti ketiga PDF tersebut dimodifikasi dalam 7 hari terakhir.
 
 # 🎉 **Hasil Akhir:**
 
-Kamu berhasil membuat daftar file PDF yang ditemukan minggu lalu.
+berhasil membuat daftar file PDF yang ditemukan minggu lalu.
 
 ---
 
