@@ -89,7 +89,7 @@ $ tree /server
     ├── Archives
     └── Documents
 ```
-https://drive.google.com/file/d/1yKlw3SOS49Tn-EP6fl4s5snh56Bc9hnN/view?usp=drivesdk
+https://drive.google.com/file/d/1yOieFCzwTPP1bRzy22YyJGfC3MJhsVSx/view?usp=drivesdk
 ---
 
 # 🟢 **Selesai!**
