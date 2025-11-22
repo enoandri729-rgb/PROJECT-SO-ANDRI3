@@ -123,7 +123,7 @@ Setelah dipindahkan, kamu harus **membuat backup-nya** ke folder **Archives**.
 $ ls /server/tmp
 proposal_marketing.pdf  engineering_report.docx  employee_list.xlsx
 ```
-
+https://drive.google.com/file/d/1yRJxPjHleYl51bMg0kHs2y2LC0arfFF_/view?usp=drivesdk
 ---
 
 # 📌 **2. Pindahkan file ke direktori yang benar (mv)**
@@ -145,7 +145,7 @@ $ mv /server/tmp/engineering_report.docx /server/Engineering/Documents/
 ```
 $ mv /server/tmp/employee_list.xlsx /server/HR/Documents/
 ```
-
+https://drive.google.com/file/d/1yTsmA_EhsKADmk8c-MLo7l-ZVKH283sT/view?usp=drivesdk
 ---
 
 # 📌 **3. Cek apakah file sudah dipindahkan**
@@ -170,7 +170,7 @@ engineering_report.docx
 $ ls /server/HR/Documents
 employee_list.xlsx
 ```
-
+https://drive.google.com/file/d/1yUi4c2doYWGoQX2xIhhZeaIZDO_cQSCd/view?usp=drivesdk
 ---
 
 # 📌 **4. Buat backup file di folder Archives (cp)**
@@ -192,7 +192,7 @@ $ cp /server/Engineering/Documents/engineering_report.docx /server/Engineering/A
 ```
 $ cp /server/HR/Documents/employee_list.xlsx /server/HR/Archives/
 ```
-
+https://drive.google.com/file/d/1yWJPxcrInW8o4ZIPNRgOVe9H_d_WKjKi/view?usp=drivesdk
 ---
 
 # 📌 **5. Cek isi folder Archives**
@@ -217,7 +217,7 @@ engineering_report.docx
 $ ls /server/HR/Archives
 employee_list.xlsx
 ```
-
+https://drive.google.com/file/d/1yhAUuqACpgvynmr0dUZe_WRaKr8VPLEi/view?usp=drivesdk
 ---
 
 # 🎉 **6. Kesimpulan**
@@ -235,7 +235,7 @@ mv asal tujuan
 ```
 cp asal tujuan
 ```
-
+# Dan ini hasilnya 
 ---
 
 
