@@ -17,6 +17,7 @@ $ mkdir /server
 ```
 
 ---
+https://drive.google.com/file/d/1y8KIsPcNCybfAbykOHgC4IfckhenTbC9/view?usp=drivesdk
 
 ### 📌 **2. Membuat folder departemen + subfoldernya**
 
