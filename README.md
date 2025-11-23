@@ -380,9 +380,15 @@ $ usermod -aG marketing user1
 $ usermod -aG engineering user2
 $ usermod -aG hr user3
 ```
-
+# user1
+https://drive.google.com/file/d/1zIx4Zqx5RvYeIyW2nsovtgwC5wq6KqZY/view?usp=drivesdk
 Agar setiap user hanya bisa membuka folder departemen mereka.
 
+# user2
+https://drive.google.com/file/d/1zMDDHQ9qwYOIx6mEHuj4lVd8IdAUsO_q/view?usp=drivesdk
+
+# user3
+https://drive.google.com/file/d/1zQ7OjuvMkTwitqdfjWLJIi81RkewSYls/view?usp=drivesdk
 ---
 
 # 🎉 **Permission Berhasil Diatur**
