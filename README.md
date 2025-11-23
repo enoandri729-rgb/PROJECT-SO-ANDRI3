@@ -382,7 +382,6 @@ $ usermod -aG hr user3
 ```
 # user1
 https://drive.google.com/file/d/1zIx4Zqx5RvYeIyW2nsovtgwC5wq6KqZY/view?usp=drivesdk
-Agar setiap user hanya bisa membuka folder departemen mereka.
 
 # user2
 https://drive.google.com/file/d/1zMDDHQ9qwYOIx6mEHuj4lVd8IdAUsO_q/view?usp=drivesdk
@@ -390,6 +389,7 @@ https://drive.google.com/file/d/1zMDDHQ9qwYOIx6mEHuj4lVd8IdAUsO_q/view?usp=drive
 # user3
 https://drive.google.com/file/d/1zQ7OjuvMkTwitqdfjWLJIi81RkewSYls/view?usp=drivesdk
 ---
+Agar setiap user hanya bisa membuka folder departemen mereka.
 
 # 🎉 **Permission Berhasil Diatur**
 
@@ -439,7 +439,7 @@ $ tree /server
     │   └── proposal_marketing.pdf
     └── Archives
 ```
-
+https://drive.google.com/file/d/1zT_rC4pj2V4sX_TzoUXV4kXvr5hRo7ff/view?usp=drivesdk
 Misalnya beberapa file PDF ini baru diedit minggu lalu.
 
 ---
@@ -452,9 +452,7 @@ Perintahnya:
 find /server -type f -name "*.pdf" -mtime -7 > /server/pdf_minggu_lalu.txt
 ```
 
-Mari lihat simulasi terminalnya 👇
-
----
+Mari lihat simulasi terminal-terminalnya
 
 # 🖥️ **Terminal: Jalankan perintah find**
 
@@ -474,7 +472,8 @@ $ cat /server/pdf_minggu_lalu.txt
 /server/Engineering/Documents/draft_engineering.pdf
 /server/HR/Documents/data_karyawan.pdf
 ```
-
+#Hasilnya
+https://drive.google.com/file/d/1zV4igg-_HyrX_kPrI-W07lqnSWlNCnCe/view?usp=drivesdk
 Ini berarti ketiga PDF tersebut dimodifikasi dalam 7 hari terakhir.
 
 ---
