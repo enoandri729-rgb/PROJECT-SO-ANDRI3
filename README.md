@@ -308,6 +308,7 @@ $ chgrp -R hr /server/HR
 `-R` = recursive → seluruh folder & subfolder ikut berubah grupnya.
 
 ---
+https://drive.google.com/file/d/1ywNe3YE8AfUS5Def39iNcCRoigwxx8Xl/view?usp=drivesdk
 
 # 📌 **4. Set permission folder dengan chmod**
 
@@ -340,7 +341,7 @@ $ chmod -R 770 /server/Engineering
 ```
 $ chmod -R 770 /server/HR
 ```
-
+https://drive.google.com/file/d/1z34K3QvMF8gNeerpWtTmtGVtRBiK5woC/view?usp=drivesdk
 ---
 
 # 📌 **5. Cek permission setelah diatur**
@@ -368,6 +369,7 @@ drwxrwx--- 2 root marketing 4096 Nov 20 10:22 /server/Marketing/Documents
 Semuanya sudah memakai grup **marketing** dan permission **770**.
 
 ---
+https://drive.google.com/file/d/1z6PPj25lfQKJ8q-tMoIBldAXZ41GPqUM/view?usp=drivesdk
 
 # 📌 **6. (Opsional) Tambahkan user ke grup masing-masing**
 
