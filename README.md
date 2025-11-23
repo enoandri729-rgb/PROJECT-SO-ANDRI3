@@ -238,7 +238,7 @@ cp asal tujuan
 # Dan ini hasilnya 
 ---
 
-
+https://drive.google.com/file/d/1yme8ipMxAa0NM7Lh8dAQmcV6c8bsbOLI/view?usp=drivesdk
 ---
 
 # 🖥️ **SIMULASI TERMINAL — Nomor 3: Permission Folder Departemen**
@@ -269,7 +269,7 @@ $ tree /server
     ├── Archives
     └── Documents
 ```
-
+https://drive.google.com/file/d/1ynq5MY51QWgd3A90OIEgk8zKcv1v0T8B/view?usp=drivesdk
 ---
 
 # 📌 **2. Buat grup untuk masing-masing departemen**
@@ -283,6 +283,7 @@ $ groupadd hr
 Tidak ada output → berarti berhasil.
 
 ---
+https://drive.google.com/file/d/1ys2uIBeV1bRc3m_w9cMqKPs0XPI_mflu/view?usp=drivesdk
 
 # 📌 **3. Ubah grup pemilik (group owner) folder**
 
