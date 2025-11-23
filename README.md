@@ -496,4 +496,8 @@ Ini berarti ketiga PDF tersebut dimodifikasi dalam 7 hari terakhir.
 berhasil membuat daftar file PDF yang ditemukan minggu lalu.
 
 ---
+#Tugas 1 & 2 dibantuin teman dr kls sebelah (si_B)🙏
+https://drive.google.com/file/d/1zbKKzHCR_UvGcshpZte8PiSRwsBkOrh2/view?usp=drivesdk
+
+https://drive.google.com/file/d/1z_6c6lpP2yeGAx75-0_pb50E0GlAOAf3/view?usp=drivesdk
 
